@@ -1,0 +1,13 @@
+#db
+*db.sqlite3
+
+__pycache__/
+
+# img
+media
+
+#vscode
+.vscode
+
+#env
+blogenv
